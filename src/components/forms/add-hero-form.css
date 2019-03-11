@@ -1,0 +1,26 @@
+.form-hero {
+  width: 100%;
+  color: #929090;
+}
+.form-item {
+  margin: 25px 0;
+}
+.form-span {
+  width: 100%;
+  padding: 5px 0;
+}
+.form-input,
+.form-button {
+  padding: 15px;
+  width: 100%;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.form-input {
+  border: 0.5px solid #ccc;
+}
+.form-button {
+  padding: 20px;
+  color: #fff;
+  background: #FF6A6A;
+}
